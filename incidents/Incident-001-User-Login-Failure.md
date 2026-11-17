@@ -23,7 +23,7 @@ The authentication service was rolled back to the previous version, restoring ac
 
 ---
 
-#Business Impact
+# Business Impact
 
 ## User Impact
 - Users unable to access the healthcare enrollment portal
