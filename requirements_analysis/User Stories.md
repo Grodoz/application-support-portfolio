@@ -244,3 +244,77 @@ High
 
 ---
 
+
+**So that** users have the appropriate permissions.
+
+### Acceptance Criteria
+
+- Administrator can assign roles.
+- Administrator can modify roles.
+- Changes are logged.
+
+### Priority
+
+High
+
+### Story Points
+
+5
+
+---
+
+## US-021 View Audit Logs
+
+**As a** System Administrator
+
+**I want to** view audit logs
+
+**So that** system activity can be monitored.
+
+### Acceptance Criteria
+
+- User activity is captured.
+- Administrator can filter logs.
+- Activity history is retained.
+
+### Priority
+
+Medium
+
+### Story Points
+
+5
+
+---
+
+# Backlog Summary
+
+| Epic | Story Count | Total Story Points |
+|--------|-------------|-------------------|
+| User Registration and Authentication | 3 | 13 |
+| Volunteer Profile Management | 3 | 11 |
+| Event Management | 3 | 16 |
+| Volunteer Scheduling | 3 | 15 |
+| Attendance Tracking | 2 | 8 |
+| Communication and Notifications | 2 | 8 |
+| Reporting and Analytics | 3 | 19 |
+| Administration | 2 | 10 |
+
+**Total User Stories:** 21
+
+**Total Story Points:** 100
+
+---
+
+# Skills Demonstrated
+
+- Agile Requirements Analysis
+- User Story Development
+- Product Backlog Creation
+- Requirements Decomposition
+- Acceptance Criteria Definition
+- Stakeholder Analysis
+- Scrum Planning Artifacts
+- Business Analysis
+- Systems Analysis
+- Solution Design
