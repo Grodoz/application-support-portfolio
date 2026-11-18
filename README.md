@@ -26,7 +26,8 @@ The portfolio demonstrates skills commonly used by:
  
   Author: Richard Broyles
 
-  [IMPORTANT] Portfolio Disclaimer
+  [IMPORTANT]
+  Portfolio Disclaimer
 
   The incident reports, troubleshooting scenarios, system diagrams, requirements documents, test artifacts, and operational runbooks in this repository are educational portfolio projects related to demonstrate skills in:
   - Application Support
